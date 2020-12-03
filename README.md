@@ -16,3 +16,7 @@ For project documentation, please visit [readthedocs](https://efcorecassandra.re
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+
+Read This Documentation
+https://efcorecassandra.readthedocs.io/en/latest/intro/getting-started-with-efcorecassandra.html
